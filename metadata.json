@@ -1,0 +1,6 @@
+{
+  "name": "BimmerUnlock Pro - BMW ENET Headunit & FSC Feature Installer",
+  "description": "Professional BMW head unit feature installer and OBD-II ENET interface tool for unlocking CarPlay, Android Auto, Video in Motion, and injecting FSC codes into NBT, NBTevo, ENTRYNAV2, and MGU head units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
